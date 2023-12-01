@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lugares Favoritos</title>
+</head>
+<body>
+    <h1>Meu Lugar Favorito na Cidade: Shopping Mooca</h1>
+
+    <p>O Shopping Mooca é um lugar especial para mim. Aqui estão algumas imagens:</p>
+
+    <!-- Imagens do Shopping Mooca -->
+    <img src="shopping-mooca1.jpg" alt="Shopping Mooca 1">
+    <img src="shopping-mooca2.jpg" alt="Shopping Mooca 2">
+    <img src="shopping-mooca3.jpg" alt="Shopping Mooca 3">
+</body>
+</html>
